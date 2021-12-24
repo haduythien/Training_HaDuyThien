@@ -1,0 +1,1 @@
+/home/test/ThienHa_23122021/Training_HaDuyThien/BAKERY/build/CMakeFiles/bakery.dir
